@@ -1,9 +1,9 @@
-## Laravel School Management System (LSMS)
+## Laravel SkoolMS
 
-**LSM System** is a simple role based school management system.
+**SkoolMs** is a simple role based school management system.
 
 ### Installation
-01. `git clone https://github.com/sanz/laravel-school-management-system.git`
+01. `git clone https://github.com/ghost-lolade/laravel-school-management-system.git`
 02. `cd laravel-school-management-system`
 03. `composer install`
 04. `npm install`
