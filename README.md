@@ -20,7 +20,7 @@
 
 To test application the database is seeding with users :
 
--   Admin : email = admin@demo.com, password = 12345678 and Role: Admin
--   Teacher : email = teacher@demo.com, password = 12345678 and Role: Teacher
--   Parent : email = parent@demo.com, password = 12345678 and Role: Parent
--   Student : email = student@demo.com, password = 12345678 and Role: Student
+-   Admin : email = ghost@renegade.io, password = testing and Role: Admin
+-   Teacher : email = teacher@renegade.io, password = testing and Role: Teacher
+-   Parent : email = parent@renegade.io, password = testing and Role: Parent
+-   Student : email = student@renegade.io, password = testing and Role: Student
